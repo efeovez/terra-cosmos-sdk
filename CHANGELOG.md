@@ -49,6 +49,10 @@ Ref: https://keepachangelog.com/en/1.0.0/
 * (deps) [#25710](https://github.com/cosmos/cosmos-sdk/pull/25710) Bump github.com/cosmos/ledger-cosmos-go from 0.16.0 to 1.0.0
 * (deps) [#25820](https://github.com/cosmos/cosmos-sdk/pull/25820) Bump github.com/cometbft/cometbft from 0.80.20 to 0.38.21
 
+### Improvements
+
+* (x/gov) [#24386](https://github.com/cosmos/cosmos-sdk/pull/24386) Improve helpers to easily create governance proposals from CLI.
+
 ### Bug Fixes
 
 * (x/auth) [#25871](https://github.com/cosmos/cosmos-sdk/pull/25871) Limits pagination at default for values that exceed it.
